@@ -2,7 +2,7 @@
 ---
 ##Professor Nélio Alves
 ---
-#Link do Curso:
+Link do Curso:
 https://www.udemy.com/course/java-curso-logica-de-programacao
 ---
 Curso equivalente à disciplina de Lógica de Programação da faculdade, para iniciantes, usando Java como linguagem.
